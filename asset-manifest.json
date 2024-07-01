@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FinalExam_project_Dimitri-Matcharashvili/static/css/main.5757bbad.css",
-    "main.js": "/FinalExam_project_Dimitri-Matcharashvili/static/js/main.fc76f68d.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/FinalExam_project_Dimitri-Matcharashvili/static/js/453.0ccb7fb4.chunk.js",
-    "static/media/bg.png": "/FinalExam_project_Dimitri-Matcharashvili/static/media/bg.d18e8af5bac65a98cd80.png",
-    "index.html": "/FinalExam_project_Dimitri-Matcharashvili/index.html",
-    "main.5757bbad.css.map": "/FinalExam_project_Dimitri-Matcharashvili/static/css/main.5757bbad.css.map",
-    "main.fc76f68d.js.map": "/FinalExam_project_Dimitri-Matcharashvili/static/js/main.fc76f68d.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/FinalExam_project_Dimitri-Matcharashvili/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/static/css/main.241e517e.css",
+    "main.js": "/static/js/main.6ec8a229.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/bg.png": "/static/media/bg.d18e8af5bac65a98cd80.png",
+    "index.html": "/index.html",
+    "main.241e517e.css.map": "/static/css/main.241e517e.css.map",
+    "main.6ec8a229.js.map": "/static/js/main.6ec8a229.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5757bbad.css",
-    "static/js/main.fc76f68d.js"
+    "static/css/main.241e517e.css",
+    "static/js/main.6ec8a229.js"
   ]
 }
